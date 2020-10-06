@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SearchUserInGithub</string>
+
+    <string name="tab_result">검색결과</string>
+    <string name="tab_like">좋아요</string>
+
+
+
+</resources>

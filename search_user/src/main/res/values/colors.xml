@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f05050</color>
+    <color name="colorPrimaryDark">#f05050</color>
+    <color name="colorAccent">#f05050</color>
+
+    <!-- 라벨텍스트색상 -->
+    <color name="red">#f05050</color>
+    <color name="yellow">#fa8c00</color>
+    <color name="green">#41aa1e</color>
+    <color name="blue">#1e82d2</color>
+    <color name="purple">#be64c8</color>
+    <color name="gray">#64788c</color>
+    <color name="mint">#00aabe</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spinner_user_sort">
+        <item>Best match</item>
+        <item>Most followers</item>
+        <item>Fewest followers</item>
+        <item>Most recently joined</item>
+        <item>Fewest recently joined</item>
+        <item>Most repositories</item>
+        <item>Fewest repositories</item>
+    </string-array>
+
+</resources>

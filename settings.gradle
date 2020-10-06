@@ -1,0 +1,2 @@
+include ':search_user'
+rootProject.name = "SearchUserInGithub"
